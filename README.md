@@ -18,5 +18,5 @@ This project was created as a group effort. Contributions from all group members
 - **View Mid-Fidelity Design:** [Click here](https://www.figma.com/design/m15Ww8bWzmLsPeqj2IaN8t/PreCure.WireFrame?node-id=0-1&t=2HZoMMXr5cPUUEau-1)
 
 - **View High-Fidelity Design:** [Click here](https://www.figma.com/design/SUVEG1YPXsDMCwfoLfeBTX/PreCure-UI-Design?node-id=0-1&t=EQEdkJpQmF1z2Avr-1)
-- 
+
 - **Prototype:** [Click here](https://www.figma.com/proto/SUVEG1YPXsDMCwfoLfeBTX/PreCure-UI-Design?node-id=0-1&t=EQEdkJpQmF1z2Avr-1)
